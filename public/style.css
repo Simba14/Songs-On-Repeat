@@ -1,0 +1,70 @@
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  /*background: url(./glitch.png);*/
+  font-family: 'bahiana', cursive;
+  top: 0;
+}
+
+
+img {
+  height: 80%;
+}
+
+path {
+  fill: green;
+}
+
+h1 {
+  font-family: 'Audiowide', cursive;
+  font-size: 400%;
+  color: white;
+  background: url(./glitch.png);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+#title {
+  margin: auto;
+  margin-top: 0;
+  text-align: center;
+  width: 55%;
+  height: 100px;
+}
+
+#title img {
+  float: left;
+  position: relative;
+  left: 120px;
+}
+
+#title h1 {
+  position: relative;
+  right: 10px;
+}
+
+#intro {
+  font-family: 'Audiowide', cursive;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+h3 {
+  font-size: 200%;
+}
+
+#playlist {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+footer {
+  font-family: 'Audiowide', cursive;
+  margin: auto;
+  font-size: 20px;
+}
